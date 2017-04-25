@@ -1,1 +1,1 @@
-# java_training
+Thinking in java
