@@ -9,3 +9,7 @@
     21.2.2 Thread类
     21.2.3 使用Executor
         执行器 管理Thread对象
+    21.2.4 从任务中产生返回值
+        Runnable是执行工作的独立任务，但是它不返回任何值。若希望任务在完成时能够返回一个值，那么可以实现Callable接口
+        Callable是一个具有参数类型的泛型，它的参数类型表示的是从方法call()中返回的值
+        必须使用ExecutorService.submit()方法调用它
