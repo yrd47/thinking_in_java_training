@@ -18,10 +18,10 @@ public class Exercise1 {
 
     @Override
     public String toString() {
-        final StringBuilder stringBuilder = new StringBuilder("DefaultIntial{");
+        final StringBuilder stringBuilder = new StringBuilder("DefaultIntial { ");
         stringBuilder.append("defaultIntialInt = ").append(defaultIntialInt);
         stringBuilder.append(", defaultIntialChar = ").append(defaultIntialChar);
-        stringBuilder.append("}");
+        stringBuilder.append(" }");
         return stringBuilder.toString();
     }
 }
