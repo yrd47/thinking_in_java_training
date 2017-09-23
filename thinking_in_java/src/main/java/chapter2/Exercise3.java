@@ -11,7 +11,7 @@ public class Exercise3 {
     }
 
     public String sayYourName() {
-        return "Hello + " + name;
+        return "Hello " + name;
     }
 
     public static void main(String[] args) {
