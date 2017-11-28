@@ -1,4 +1,4 @@
-#<center>第六章 访问权限控制
+#第六章 访问权限控制
 从最大权限到最小权限：public,protected,包访问权限(没有关键词),private  
 ## 6.1 包：库单元
 package  
