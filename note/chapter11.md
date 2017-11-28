@@ -1,4 +1,4 @@
-#<center>  第11章 持有对象
+#  第11章 持有对象
 Collection 容器类（集合类），用于保存对象  
 List、Set、Queue、Map  
 ## 11.1 泛型和类型安全的容器
