@@ -1,4 +1,4 @@
-#<center> 第14章 类型信息
+# 第14章 类型信息
 运行时类型信息 Run-Time Type Information  
 RTTI  
 1. 传统的，假定我们在编译时已经知道了所有的类型  
@@ -16,6 +16,4 @@ instanceof
 ## 14.5 instanceof与Class的等价性
 ## 14.6 反射：运行时的类信息
 Class类和java.lang.reflect类库一起对反射的概念进行了支持，该类库包含了Field、Method以及Constructor类  
-## 14.7 动态代理
-## 14.8 空对象
-## 14.9 接口与类型信息
+## 14.7 动态
